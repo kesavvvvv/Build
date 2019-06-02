@@ -29,7 +29,7 @@ git clone https://github.com/kesavvvvv/kernel_asus_sdm660-1 -b lineage-16.0 kern
 git clone https://github.com/kesavvvvv/device_asus_X00T -b lineage-16.0 device/asus/X00T
 git clone https://github.com/kesavvvvv/proprietary_vendor_asus -b pie vendor/asus
 
-cd external/ant_wireless
+cd external/ant-wireless
 rm -rf ant_native
 git clone https://github.com/kesavvvvv/ant_native
 
